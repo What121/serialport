@@ -1,0 +1,2 @@
+[armeabi-v7a] Compile thumb  : serial_port <= SerialPort.c
+[armeabi-v7a] SharedLibrary  : libserial_port.so

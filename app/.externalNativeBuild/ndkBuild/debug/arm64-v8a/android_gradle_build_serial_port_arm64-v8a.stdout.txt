@@ -1,0 +1,1 @@
+make: `D:/Work/Android/CommProject/ComAssistant-master-master/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libserial_port.so' is up to date.
